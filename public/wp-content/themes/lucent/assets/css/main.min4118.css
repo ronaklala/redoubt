@@ -6265,7 +6265,7 @@ body:not([class*="lucent-core"]) #qodef-page-footer-top-area {
 #qodef-page-header .qodef-header-logo-link img {
   display: block;
   width: auto;
-  max-height: 40px;
+  max-height: 60px;
   -webkit-transition: opacity 0.3s ease;
   -o-transition: opacity 0.3s ease;
   transition: opacity 0.3s ease;

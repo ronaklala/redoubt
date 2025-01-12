@@ -103,19 +103,10 @@ const Home = () => {
                                                 <img
                                                   width={1920}
                                                   height={996}
-                                                  src="wp-content/uploads/2020/10/home1-image-1.jpg"
+                                                  src="https://i.ibb.co/K7DPVmS/21-Life-testing-instrument.jpg"
                                                   className="attachment-full size-full"
                                                   alt="s"
                                                   decoding="async"
-                                                  srcSet="
-                                            https://lucent.qodeinteractive.com/wp-content/uploads/2020/10/home1-image-1.jpg          1920w,
-                                            https://lucent.qodeinteractive.com/wp-content/uploads/2020/10/home1-image-1-600x311.jpg   600w,
-                                            https://lucent.qodeinteractive.com/wp-content/uploads/2020/10/home1-image-1-300x156.jpg   300w,
-                                            https://lucent.qodeinteractive.com/wp-content/uploads/2020/10/home1-image-1-1024x531.jpg 1024w,
-                                            https://lucent.qodeinteractive.com/wp-content/uploads/2020/10/home1-image-1-768x398.jpg   768w,
-                                            https://lucent.qodeinteractive.com/wp-content/uploads/2020/10/home1-image-1-1536x797.jpg 1536w
-                                          "
-                                                  sizes="(max-width: 1920px) 100vw, 1920px"
                                                 />
                                                 <div className="qodef-m-headline">
                                                   <h5 className="qodef-m-title">
@@ -141,16 +132,10 @@ const Home = () => {
                                                       <img
                                                         width={252}
                                                         height={252}
-                                                        src="wp-content/uploads/2020/10/home1-image-2.jpg"
+                                                        src="https://i.ibb.co/hMLQjjp/3-Aging-Section.jpg"
                                                         className="attachment-full size-full"
                                                         alt="x"
                                                         decoding="async"
-                                                        srcSet="
-                                                  https://lucent.qodeinteractive.com/wp-content/uploads/2020/10/home1-image-2.jpg         252w,
-                                                  https://lucent.qodeinteractive.com/wp-content/uploads/2020/10/home1-image-2-100x100.jpg 100w,
-                                                  https://lucent.qodeinteractive.com/wp-content/uploads/2020/10/home1-image-2-150x150.jpg 150w
-                                                "
-                                                        sizes="(max-width: 252px) 100vw, 252px"
                                                       />
                                                     </a>
                                                   </div>
@@ -160,19 +145,10 @@ const Home = () => {
                                                 <img
                                                   width={1920}
                                                   height={996}
-                                                  src="wp-content/uploads/2020/10/home1-image-3.jpg"
+                                                  src="https://i.ibb.co/hMLQjjp/3-Aging-Section.jpg"
                                                   className="attachment-full size-full"
                                                   alt="x"
                                                   decoding="async"
-                                                  srcSet="
-                                            https://lucent.qodeinteractive.com/wp-content/uploads/2020/10/home1-image-3.jpg          1920w,
-                                            https://lucent.qodeinteractive.com/wp-content/uploads/2020/10/home1-image-3-600x311.jpg   600w,
-                                            https://lucent.qodeinteractive.com/wp-content/uploads/2020/10/home1-image-3-300x156.jpg   300w,
-                                            https://lucent.qodeinteractive.com/wp-content/uploads/2020/10/home1-image-3-1024x531.jpg 1024w,
-                                            https://lucent.qodeinteractive.com/wp-content/uploads/2020/10/home1-image-3-768x398.jpg   768w,
-                                            https://lucent.qodeinteractive.com/wp-content/uploads/2020/10/home1-image-3-1536x797.jpg 1536w
-                                          "
-                                                  sizes="(max-width: 1920px) 100vw, 1920px"
                                                 />
                                                 <div className="qodef-m-headline">
                                                   <h5 className="qodef-m-title">
@@ -217,19 +193,10 @@ const Home = () => {
                                                 <img
                                                   width={1920}
                                                   height={996}
-                                                  src="wp-content/uploads/2020/10/home1-image-5.jpg"
+                                                  src="https://i.ibb.co/tJBFVQV/1-Assambly-line-1.jpg"
                                                   className="attachment-full size-full"
                                                   alt="f"
                                                   decoding="async"
-                                                  srcSet="
-                                            https://lucent.qodeinteractive.com/wp-content/uploads/2020/10/home1-image-5.jpg          1920w,
-                                            https://lucent.qodeinteractive.com/wp-content/uploads/2020/10/home1-image-5-600x311.jpg   600w,
-                                            https://lucent.qodeinteractive.com/wp-content/uploads/2020/10/home1-image-5-300x156.jpg   300w,
-                                            https://lucent.qodeinteractive.com/wp-content/uploads/2020/10/home1-image-5-1024x531.jpg 1024w,
-                                            https://lucent.qodeinteractive.com/wp-content/uploads/2020/10/home1-image-5-768x398.jpg   768w,
-                                            https://lucent.qodeinteractive.com/wp-content/uploads/2020/10/home1-image-5-1536x797.jpg 1536w
-                                          "
-                                                  sizes="(max-width: 1920px) 100vw, 1920px"
                                                 />
                                                 <div className="qodef-m-headline">
                                                   <h5 className="qodef-m-title">
